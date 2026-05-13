@@ -2,6 +2,7 @@
 
 - [Clash.Verge_2.5.0-rc_x64-setup](./Clash.Verge_2.5.0-rc_x64-setup)
 - [Composer-Setup](./Composer-Setup)
+- [Hiddify-Windows-Setup-x64](./Hiddify-Windows-Setup-x64)
 - [_epsilon_6765](./_epsilon_6765)
 - [index](./index)
 - [laragon-wamp](./laragon-wamp)
